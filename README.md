@@ -11,3 +11,9 @@
 
 1. markdown editor **ghostwriter**설치 및 이용
 2. 토비 9.1장 일부 정리
+
+2021-02-25
+
+1. 깃에 있는 컨텐츠 제거
+2. 노션으로 옮김 (https://www.notion.so/sangrhee/Sang-s-External-Brain-Memory-0a978326d820420c99187da914340b66)
+3. "솔직함 vs 보편성에 의거한 거짓말" 글 끄적..
