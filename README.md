@@ -17,3 +17,7 @@
 1. 깃에 있는 컨텐츠 제거
 2. 노션으로 옮김 (https://www.notion.so/sangrhee/Sang-s-External-Brain-Memory-0a978326d820420c99187da914340b66)
 3. "솔직함 vs 보편성에 의거한 거짓말" 글 끄적..
+
+2021-03-02
+
+1. 쌩이 추구하는 인생 - https://www.notion.so/sangrhee/2fb7227ba4054119b8903182a329cab2
