@@ -21,3 +21,11 @@
 2021-03-02
 
 1. 쌩이 추구하는 인생 - https://www.notion.so/sangrhee/2fb7227ba4054119b8903182a329cab2
+
+2021-03-13
+
+1. 토비 9장 정리 완료 - https://www.notion.so/sangrhee/1-9-513f43a702114aebba00b58fa6c1811c
+
+2021-03-16
+
+1. 쌩이 추구하는 팀의 원칙 - https://www.notion.so/sangrhee/Principles-d64d84f49f854416a4acbf048c9cffd7
