@@ -29,3 +29,8 @@
 2021-03-16
 
 1. 쌩이 추구하는 팀의 원칙 - https://www.notion.so/sangrhee/Principles-d64d84f49f854416a4acbf048c9cffd7
+
+2021-03-24
+
+1. 쌩의 거친 철학적 사유 인트로 - https://www.notion.so/sangrhee/58f65de2c97e4c69b6fc2535a2be706a
+
